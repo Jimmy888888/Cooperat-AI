@@ -1,7 +1,7 @@
 ## use chatgpt
 
-# promt
-```幫我寫一個函式。 public int removeDuplicates(int[] nums) { return k; }    nums是一個經排列的non-decreasing陣列    removeDuplicates要讓nums裡的前k個所有數字都最多重複兩次```<br>
+### promt
+```幫我寫一個函式。 public int removeDuplicates(int[] nums) { return k; }    nums是一個經排列的non-decreasing陣列    removeDuplicates要讓nums裡的前k個所有數字都最多重複兩次```<br><br>
 ```chatgpt```
 ```
 public int removeDuplicates(int[] nums) {
