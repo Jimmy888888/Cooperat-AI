@@ -5,7 +5,8 @@
 3.the given array ```nums``` sorted in non-decreasing order<br>
 ## step1.<br>
 ## Split the logics of the solution:<br>
-```class Solution {
+```
+class Solution {
     public int removeDuplicates(int[] nums) {
         
         int curNum = nums[0], dupCount = 0;
@@ -35,4 +36,5 @@
 
         return pK++;
     }
-} ```
+} 
+```
