@@ -1,6 +1,6 @@
 ## step0.<br>
 ## Find the needed items and the data format:<br>
-1.each unique element appears at most twice<br>
+1.each unique element appears at most twice, and return the length of ```nums``` ```k```<br>
 2.limited space complexity O(1)<br>
 3.the given array ```nums``` sorted in non-decreasing order<br>
 ## step1.<br>
